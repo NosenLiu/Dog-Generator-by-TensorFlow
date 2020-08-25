@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\Python_Workspace\\competition\\GAN\\dog_recognize\\Generativ_Dog_Images\\Dog-Generator-by-TensorFlow\\./models/WGAN/my_wgan-gp.ckpt-9"
+all_model_checkpoint_paths: "G:\\Python_Workspace\\competition\\GAN\\dog_recognize\\Generativ_Dog_Images\\Dog-Generator-by-TensorFlow\\./models/WGAN/my_wgan-gp.ckpt-9"
